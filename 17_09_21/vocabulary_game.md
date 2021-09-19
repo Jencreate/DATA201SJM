@@ -34,6 +34,57 @@ igloo
 ### Sunjung's Words 
 
 ### Matthew's Words  
+Youtube 
+colours 
+houses 
+accommodation 
+Mountains
+ Outdoors
+ Snow
+ weather 
+waves 
+beach 
+sand 
+dunes 
+hills 
+roads 
+Cars
+ Paths
+ Routes
+ playground 
+soil 
+Bark
+ trees 
+lighting 
+Components
+ keyboard 
+typing 
+information 
+data 
+centre 
+cities 
+countries 
+planets 
+systems 
+physics 
+music 
+Patterns
+ Distance
+ images 
+Searching
+ Google
+ Business
+ empire 
+Control
+ Space
+ Database
+ Numbers
+ Letters
+ alphabet 
+landscape 
+products 
+software 
+hardware
 
 
 ## Word Combinations
