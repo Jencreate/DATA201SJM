@@ -32,6 +32,24 @@ tent
 igloo
 
 ### Sunjung's Words 
+christchurch
+gardening
+money
+home
+pork ribs
+beer
+mandarine
+mac book
+work
+tomato
+carrot
+mask
+barber
+mall
+energy
+weather
+cow
+farm
 
 ### Matthew's Words  
 Youtube 
