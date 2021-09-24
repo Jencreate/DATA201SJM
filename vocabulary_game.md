@@ -139,6 +139,7 @@ hardware
   - Layers worn in cold weather  
   - energy production by weather  
   - energy production by river flow with rainfall <- Topic 1
+  - energy production by riverflow with electricity cost <- Topic 2
 
 
 ### Dataset topics available on spreadsheet
