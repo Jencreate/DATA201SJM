@@ -6,6 +6,3 @@ mwy14@uclive.ac.nz
 swo71@uclive.ac.nz  
 jbe153@uclive.ac.nz  
 yli356@uclive.ac.nz
-
-hsadaskfjnaskjnsakjnf  
-jfisdijfdf
