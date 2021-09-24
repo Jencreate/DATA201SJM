@@ -6,5 +6,5 @@
 
 #### Team Entry (24/09/21)
 - New team member in group, Liyinqin Li. SJM now has a group size of 4.
-- 'energy production by river flow with relative humidity' was chosen as the main topic. 
+- 'energy production by river flow with rainfall' was chosen as the main topic. 
 
