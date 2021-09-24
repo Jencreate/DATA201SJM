@@ -1,0 +1,18 @@
+3 datasets available
+
+ -River stage flow data for individual site
+	-requires a site parameter (list of 100's of sites, may be too much to work with)
+	-time period required (2 days/1 week/2 week/1 month)
+	-stage or flow required (river stage/river flow)
+	-csv file available
+	-url: http://data.ecan.govt.nz/Catalogue/Method?MethodId=79#tab-data
+
+ -River stage flow summary by area
+	-requires a site parameter (north/south)(based on north or sout of rakaia river)
+	-csv file available
+	-url: http://data.ecan.govt.nz/Catalogue/Method?MethodId=57#tab-data
+
+ -River stage flow summary for indiviual site
+	-requires a site parameter (10's of site locations)
+	-csv file available
+	-http://data.ecan.govt.nz/Catalogue/Method?MethodId=58#tab-data
