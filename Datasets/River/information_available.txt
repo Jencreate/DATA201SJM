@@ -16,3 +16,7 @@
 	-requires a site parameter (10's of site locations)
 	-csv file available
 	-http://data.ecan.govt.nz/Catalogue/Method?MethodId=58#tab-data
+
+ANOTHER DATASET FOUND
+ -https://www.emi.ea.govt.nz/Environment/Datasets/HydrologicalModellingDataset
+	-bunch of data sets including river flow
