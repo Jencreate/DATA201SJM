@@ -6,5 +6,7 @@
 
 #### Team Entry (24/09/21)
 - New team member in group, Liyinqin Li. SJM now has a group size of 4.
-- 'energy production by river flow with rainfall' was chosen as the main topic. 
+- 'energy production by river flow with rainfall' was chosen as the first topic for prototyping.
+  - We found data for energy production by hydrostation, with the corresponding river flow data.
+  - We could not find sufficient rain fall data over a long period of time.
 
