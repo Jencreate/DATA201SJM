@@ -138,7 +138,7 @@ hardware
   - rating for snow resistant clothes
   - Layers worn in cold weather  
   - energy production by weather  
-  - energy production by river flow with relative humidity <- Chosen topic
+  - energy production by river flow with rainfall <- Chosen topic
 
 
 ### Dataset topics available on spreadsheet
