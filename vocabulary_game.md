@@ -31,7 +31,7 @@ koala
 tent
 igloo
 
-### Sunjung's Words 
+### Sujung's Words 
 christchurch
 gardening
 money
