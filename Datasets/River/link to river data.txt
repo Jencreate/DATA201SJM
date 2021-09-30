@@ -1,1 +1,4 @@
 https://www.ecan.govt.nz/data/riverflow/
+
+NIWA DATA
+https://hydrowebportal.niwa.co.nz/Data/Map/Parameter/Discharge/Statistic/Discharge%20Latest/Interval/Latest
