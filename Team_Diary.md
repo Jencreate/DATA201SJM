@@ -14,6 +14,13 @@
 #### Team Entry (01/10/21)
 - Found the data sets for power production by hydrostations, river flow, and electricity cost.
 - Decided to use 2020 data for each of the above datasets as it was available for each subject.
+- The data retrieval and wrangling must be done automatically, and so scripts will have to be created to handle the automatic process.
+- Created and updated the team plan to assign tasks to individual members.
+    - Each individual member should create an R script to webscrape their subject's data from their respective sources. 
 
+#### Jensen's Entry (01/10/21)
+- I will create a python script to convert xlsx/xls files to csv so the data contained within  may be easily wrangled in R.
 
-
+#### Matt's Entry (01/10/21)
+- With help from Giulio, figured out a way to create a sort of manual api from a download url.
+- Found url changes when using different datasets from the niwa website and obtained the different values required for my rivers.
