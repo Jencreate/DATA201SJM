@@ -1,5 +1,5 @@
 #### Entry (20/09/21) - Team
-- Attempted to generate ideas for the assignment topic (17/09/21)
+- Attempted to generate ideas for the assignment topic (17/09/21) (see vocabulary_game.md)
   - Each team member created a list of random words of any topic.
   - The words from each member were combined to form multiple sentences relating to a topic idea.
   - The ideas were further refined to meet the context of the assignment.
@@ -19,7 +19,7 @@
     - Each individual member should create an R script to webscrape their subject's data from their respective sources. 
 
 #### Entry (01/10/21) - Jensen
-- I will create a python script to convert xlsx/xls files to csv so the data contained within  may be easily wrangled in R.
+- I will create a python script to convert xlsx/xls files to csv so the data contained within may be easily wrangled in R.
 
 #### Entry (01/10/21) - Matt
 - With help from Giulio, figured out a way to create a sort of manual api from a download url.
