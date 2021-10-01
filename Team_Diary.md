@@ -8,5 +8,6 @@
 - New team member in group, Liyinqin Li. SJM now has a group size of 4.
 - 'energy production by river flow with rainfall' was chosen as the first topic for prototyping.
   - We found data for energy production by hydrostation, with the corresponding river flow data.
-  - We could not find sufficient rain fall data over a long period of time.
+  - We could not find sufficient rain fall data over a long period of time for the locations of the hydrostations.  
+- Changed our topic to our second choice 'energy production by riverflow with electricity cost' due to the above reason.
 
