@@ -10,7 +10,7 @@ yli356@uclive.ac.nz
 
 ## Road map
 #### Specifics detailed in Team_Plan.md
-- [ ] Identify a range of topic ideas
+- [x] Identify a range of topic ideas
 - [x] Prototype our identified topics
 - [x] Confirm the chosen topic and identify available datasets
 - [ ] Create scripts to automate data collection from sources
