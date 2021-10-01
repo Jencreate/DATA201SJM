@@ -16,3 +16,4 @@
 - Decided to use 2020 data for each of the above datasets as it was available for each subject.
 
   #### Jensen's Entry (01/10/21) 
+  Some of the data sets are in .xlsx/.xls format. It would be easier to wrangle if they were in csv format. In order to do that, I will create a python script using   the openpyxl module.
