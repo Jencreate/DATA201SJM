@@ -18,3 +18,4 @@ yli356@uclive.ac.nz
 - [ ] Wrangle data into desired format
 - [ ] Create scripts to automate the wrangling
 - [ ] Combine all the scripts into a final package
+- [ ] Produce a user interface to allow the final package to be used easily
