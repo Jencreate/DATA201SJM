@@ -11,3 +11,8 @@
   - We could not find sufficient rain fall data over a long period of time for the locations of the hydrostations.  
 - Changed our topic to our second choice 'energy production by riverflow with electricity cost' due to the above reason.
 
+#### Team Entry (01/10/21)
+- Found the data sets for power production by hydrostations, river flow, and electricity cost.
+- Decided to use 2020 data for each of the above datasets as it was available for each subject.
+
+
