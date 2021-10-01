@@ -15,4 +15,8 @@
 - Found the data sets for power production by hydrostations, river flow, and electricity cost.
 - Decided to use 2020 data for each of the above datasets as it was available for each subject.
 
+	### Matt's Entry (01/10/21)
+	- With help from Giulio, figured out a way to create a sort of manual api from a download url
+	- Found url changes when using different datasets from the niwa website and obtianed the different values required for my rivers
+
 
