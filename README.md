@@ -7,5 +7,6 @@ swo71@uclive.ac.nz
 jbe153@uclive.ac.nz  
 yli356@uclive.ac.nz
 
-- [ ] test checkbox
-- [x]
+- [x] item 1
+- [ ] item 2
+- [ ] item 3
