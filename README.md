@@ -10,8 +10,9 @@ yli356@uclive.ac.nz
 
 ## Road map
 #### Specifics detailed in Team_Plan.md
-- [x] Prototyped our identified topics
-- [x] Confirmed our specific topic and identified available datasets
+- [ ] Identify a range of topic ideas
+- [x] Prototype our identified topics
+- [x] Confirm the chosen topic and identify available datasets
 - [ ] Create scripts to automate data collection from sources
   - [ ] Create a script to convert xlsx/xls files to csv
 - [ ] Wrangle data into desired format
