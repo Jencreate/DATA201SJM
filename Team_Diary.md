@@ -15,4 +15,4 @@
 - Found the data sets for power production by hydrostations, river flow, and electricity cost.
 - Decided to use 2020 data for each of the above datasets as it was available for each subject.
 
-
+  #### Jensen's Entry (01/10/21) 
