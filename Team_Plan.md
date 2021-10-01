@@ -5,5 +5,5 @@
   - [ ] Matt: River flow  
 
 #### Entry (01/10/21) - Jensen
-- [ ] Create a python script to convert xlsx/xls to csv (Assigned to Jensen, Due 08/10/21)
+- [ ] Create a python script to convert xlsx/xls to csv (Due 08/10/21)
 
