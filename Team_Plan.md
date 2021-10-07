@@ -5,5 +5,5 @@
   - [ ] Matt: Rivers and their flow rate in 2020
 
 #### Entry (01/10/21) - Jensen
-- [ ] Create a python script to convert xlsx/xls to csv (Due 08/10/21)
+- [ ] Jensen: Find a way to convert xlsx/xls to csv (Due 08/10/21)
 
