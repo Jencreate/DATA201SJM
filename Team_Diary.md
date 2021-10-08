@@ -28,3 +28,9 @@
 #### Entry (07/10/21) - Jensen
 - Perhaps R has a package that will allow the conversion of xlsx/xls to csv. I will aim to use such a package instead. 
 
+
+#### Entry (08/10/21) - Team
+- Spent most of time collaborating with another group, sharing our projects.
+- Attempted to fix github issues regarding merging repositories.
+- Compared hydrostations and the river flows of the rivers they reside on.
+
