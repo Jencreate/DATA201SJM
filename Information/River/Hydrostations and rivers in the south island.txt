@@ -1,0 +1,48 @@
+ABY0111	- Opuha Dam/Opuha River
+ARA2201	- Amethyst River
+ARG1101 - Branch River
+ARG1101 - Branch River
+ASB0331 - Rangitata River/Rakaia river
+ASB0661	- Rangitata River/Rakaia river
+ASB0661	- Little River
+AVI2201	- Waitaki River
+BEN2202	- Waitaki River
+BLN0331	- Spray River
+BWK1101	- Waipori River
+CML0331	- Kawarau River
+COB0661	- Takaka/Cobb River
+COL0661	- Rakaia River/Lake Coleridge
+CYD0331	- Teviot River
+CYD0331	- Teviot River
+CYD0331	- Fraser River
+CYD0331	- Teviot River
+CYD0331	- CANT FIND INFORMATION
+CYD2201	- Clutha River
+DOB0331	- Arnold River
+DOB0331	- CANT FIND INFORMATION
+FKN0331	- CANT FIIND INFORMATON
+FKN0331	- Wye Creek
+GOR0331	- Matarua River
+HKK0661	- Kaniere River
+HKK0661	- Kaniere River
+HKK0661	- NA
+HKK0661	- Lake Wahapo/Okarito River
+HWB0331	- Wapori River/Lake
+KUM0661	- Kawhaka Creek
+KUM0661	- Kawhaka Creek
+KUM0662 - Kawhaka Creek
+MAN2201	- Lake Manapouri
+MOT0111	- NA
+MPI0661 - Onekaka River
+MPI0661 - Campbell Creek
+NMA0331 - Monowai River
+NSY0331	- Taieri River
+NSY0331	- NA
+OHA2201 - Ohau River
+OHB2201 - Ohau River
+OHC2201	- Ohau River
+ORO1101	- NA
+ROX1101	- Clutha River
+TKA0111	- Tekapo River
+TKB2201 - Lake Pukaki/Tekapo River
+WTK0111 - Waitaki River
