@@ -1,28 +1,28 @@
-ABY0111	- Opuha Dam/Opuha River
+ABY0111	- Opuha Dam/Opuha River - Available data
 ARA2201	- Amethyst River
+ARG1101 - Branch River 
 ARG1101 - Branch River
-ARG1101 - Branch River
-ASB0331 - Rangitata River/Rakaia river
-ASB0661	- Rangitata River/Rakaia river
+ASB0331 - Rangitata River/Rakaia river - Available data at rakaia
+ASB0661	- Rangitata River/Rakaia river - Available data at rakaia
 ASB0661	- Little River
-AVI2201	- Waitaki River
-BEN2202	- Waitaki River
+AVI2201	- Waitaki River - Available data
+BEN2202	- Waitaki River - Available data
 BLN0331	- Spray River
 BWK1101	- Waipori River
-CML0331	- Kawarau River
+CML0331	- Kawarau River - Available data
 COB0661	- Takaka/Cobb River
-COL0661	- Rakaia River/Lake Coleridge
+COL0661	- Rakaia River/Lake Coleridge - Available data at rakaia
 CYD0331	- Teviot River
 CYD0331	- Teviot River
 CYD0331	- Fraser River
 CYD0331	- Teviot River
 CYD0331	- NA
-CYD2201	- Clutha River
+CYD2201	- Clutha River - Available data
 DOB0331	- Arnold River
 DOB0331	- NA
 FKN0331	- NA
 FKN0331	- Wye Creek
-GOR0331	- Matarua River
+GOR0331	- Mataura River - Available data
 HKK0661	- Kaniere River
 HKK0661	- Kaniere River
 HKK0661	- NA
@@ -35,14 +35,14 @@ MAN2201	- Lake Manapouri
 MOT0111	- NA
 MPI0661 - Onekaka River
 MPI0661 - Campbell Creek
-NMA0331 - Monowai River
-NSY0331	- Taieri River
+NMA0331 - Monowai River - Available data
+NSY0331	- Taieri River - Available data
 NSY0331	- NA
 OHA2201 - Ohau River
 OHB2201 - Ohau River
 OHC2201	- Ohau River
 ORO1101	- NA
-ROX1101	- Clutha River
+ROX1101	- Clutha River - Available data
 TKA0111	- Tekapo River
 TKB2201 - Lake Pukaki/Tekapo River
-WTK0111 - Waitaki River
+WTK0111 - Waitaki River - Available data
