@@ -1,28 +1,28 @@
-ABY0111	- Opuha Dam/Opuha River - Available data
+ABY0111	- Opuha Dam/Opuha River - Available data - Discharge%20Value.NRWQN%40TK3
 ARA2201	- Amethyst River
 ARG1101 - Branch River 
 ARG1101 - Branch River
-ASB0331 - Rangitata River/Rakaia river - Available data at rakaia
-ASB0661	- Rangitata River/Rakaia river - Available data at rakaia
+ASB0331 - Rangitata River/Rakaia river - Available data at rakaia - Discharge.Master%4068526
+ASB0661	- Rangitata River/Rakaia river - Available data at rakaia - Discharge.Master%4068526
 ASB0661	- Little River
-AVI2201	- Waitaki River - Available data
-BEN2202	- Waitaki River - Available data
+AVI2201	- Waitaki River - Available data - Discharge%20Value.NRWQN%40TK6
+BEN2202	- Waitaki River - Available data - Discharge%20Value.NRWQN%40TK6
 BLN0331	- Spray River
 BWK1101	- Waipori River
-CML0331	- Kawarau River - Available data
+CML0331	- Kawarau River - Available data - Discharge%20Value.NRWQN%40AX2
 COB0661	- Takaka/Cobb River
-COL0661	- Rakaia River/Lake Coleridge - Available data at rakaia
+COL0661	- Rakaia River/Lake Coleridge - Available data at rakaia - Discharge.Master%4068526
 CYD0331	- Teviot River
 CYD0331	- Teviot River
 CYD0331	- Fraser River
 CYD0331	- Teviot River
 CYD0331	- NA
-CYD2201	- Clutha River - Available data
+CYD2201	- Clutha River - Available data - Discharge.Master%4075207
 DOB0331	- Arnold River
 DOB0331	- NA
 FKN0331	- NA
 FKN0331	- Wye Creek
-GOR0331	- Mataura River - Available data
+GOR0331	- Mataura River - Available data - Discharge%20Value.NRWQN%40DN5
 HKK0661	- Kaniere River
 HKK0661	- Kaniere River
 HKK0661	- NA
@@ -35,14 +35,14 @@ MAN2201	- Lake Manapouri
 MOT0111	- NA
 MPI0661 - Onekaka River
 MPI0661 - Campbell Creek
-NMA0331 - Monowai River - Available data
-NSY0331	- Taieri River - Available data
+NMA0331 - Monowai River - Available data - Discharge%20Value.NRWQN%40DN10
+NSY0331	- Taieri River - Available data - Discharge%20Value.NRWQN%40DN3
 NSY0331	- NA
 OHA2201 - Ohau River
 OHB2201 - Ohau River
 OHC2201	- Ohau River
 ORO1101	- NA
-ROX1101	- Clutha River - Available data
+ROX1101	- Clutha River - Available data - Discharge.Master%4075207
 TKA0111	- Tekapo River
 TKB2201 - Lake Pukaki/Tekapo River
-WTK0111 - Waitaki River - Available data
+WTK0111 - Waitaki River - Available data - Discharge%20Value.NRWQN%40TK6
