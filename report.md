@@ -14,7 +14,7 @@ Energy production by river flow with electricity cost.
 - Hydrostations and energy output
 
 ### The reason why we chose these data sources
-The topic we chose is "Energy production by river flow with electricity cost". We chose the hydrostations in Canterbury and the rivers in the south island because it is easier to find the relationship between the hydrostations and the river. And we can  
+The topic we chose is "Energy production by river flow with electricity cost". We chose the hydrostations in Canterbury and the rivers in the south island because it is easier to find the relationship between the hydrostations and the river.
 
 ### Target
 To find the energy production by river flow with electricity cost.
