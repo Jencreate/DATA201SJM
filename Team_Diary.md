@@ -34,6 +34,9 @@
 - Attempted to fix github issues regarding merging repositories.
 - Compared hydrostations and the river flows of the rivers they reside on.
 
-### Entry (13/10/21) - Matt
--Used Jensens hydrostation data to figure out which rivers/lakes they are on and for each, what data i can find on the aquarius portal
+#### Entry (13/10/21) - Matt
+- Used Jensens hydrostation data to figure out which rivers/lakes they are on and for each, what data i can find on the aquarius portal
+
+#### Entry (15/10/21) - Richard
+- Beginning write the report about this program.
 
