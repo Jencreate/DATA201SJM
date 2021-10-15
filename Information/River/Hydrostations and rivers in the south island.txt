@@ -35,8 +35,8 @@ MAN2201	- Lake Manapouri
 MOT0111	- NA
 MPI0661 - Onekaka River
 MPI0661 - Campbell Creek
-NMA0331 - Monowai River - Available data - Discharge%20Value.NRWQN%40DN10
-NSY0331	- Taieri River - Available data - Discharge%20Value.NRWQN%40DN3
+NMA0331 - Monowai River - Available data - Discharge%20Value.NRWQN%40DN10 - data missing
+NSY0331	- Taieri River - Available data - Discharge%20Value.NRWQN%40DN3 - data missing
 NSY0331	- NA
 OHA2201 - Ohau River
 OHB2201 - Ohau River
