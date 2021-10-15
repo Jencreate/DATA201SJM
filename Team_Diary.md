@@ -48,3 +48,6 @@
 #### Entry (15/10/21) - Richard
 - Beginning write the report about this project.
 
+#### Entry (15/10/21) - Team
+- After comparing the river flow data with the hydrostation fleet location information, we found the greatest level of accuracy to be by month. This presented us with only 11 data point for each hydrostation, as the river flow data for April was missing aswell. For this reason, we have decided to extend the range of our data to multiple years.
+- Furthermore, only 11 out of the 47 hydrostations identified contained useable river flow data from the source used.
