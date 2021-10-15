@@ -27,12 +27,17 @@
 
 #### Entry (07/10/21) - Jensen
 - Perhaps R has a package that will allow the conversion of xlsx/xls to csv. I will aim to use such a package instead. 
-
+- 
+#### Entry (07/10/21) - Sujung
+- Convert excel file from web in R diretly
 
 #### Entry (08/10/21) - Team
 - Spent most of time collaborating with another group, sharing our projects.
 - Attempted to fix github issues regarding merging repositories.
 - Compared hydrostations and the river flows of the rivers they reside on.
+
+#### Entry (08/10/21) - Sujung
+- Remove unnecessary data and organize the necessary data for comparing with other data.
 
 #### Entry (10/10/21) - Jensen
 - Identified the coordinates of each appropriate hydrostation and created a tibble containing this data.
