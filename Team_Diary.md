@@ -27,16 +27,27 @@
 
 #### Entry (07/10/21) - Jensen
 - Perhaps R has a package that will allow the conversion of xlsx/xls to csv. I will aim to use such a package instead. 
-
+- 
+#### Entry (07/10/21) - Sujung
+- Convert excel file from web in R diretly
 
 #### Entry (08/10/21) - Team
 - Spent most of time collaborating with another group, sharing our projects.
 - Attempted to fix github issues regarding merging repositories.
 - Compared hydrostations and the river flows of the rivers they reside on.
 
+#### Entry (08/10/21) - Sujung
+- Remove unnecessary data and organize the necessary data for comparing with other data.
+
+#### Entry (10/10/21) - Jensen
+- Identified the coordinates of each appropriate hydrostation and created a tibble containing this data.
+
 #### Entry (13/10/21) - Matt
 - Used Jensens hydrostation data to figure out which rivers/lakes they are on and for each, what data i can find on the aquarius portal
 
 #### Entry (15/10/21) - Richard
-- Beginning write the report about this program.
+- Beginning write the report about this project.
 
+#### Entry (15/10/21) - Team
+- After comparing the river flow data with the hydrostation fleet location information, we found the greatest level of accuracy to be by month. This presented us with only 11 data point for each hydrostation, as the river flow data for April was missing aswell. For this reason, we have decided to extend the range of our data to multiple years.
+- Furthermore, only 11 out of the 47 hydrostations identified contained useable river flow data from the source used.
