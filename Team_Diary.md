@@ -29,7 +29,7 @@
 - Perhaps R has a package that will allow the conversion of xlsx/xls to csv. I will aim to use such a package instead. 
 - 
 #### Entry (07/10/21) - Sujung
-- Convert excel file from web in R diretly
+- Convert excel file from web in R directly
 
 #### Entry (08/10/21) - Team
 - Spent most of time collaborating with another group, sharing our projects.
