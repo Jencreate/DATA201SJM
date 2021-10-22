@@ -54,3 +54,6 @@
 
 ### Entry (22/10/21) - Matt
 - Have made a few changes over the past days to my river notebook, nearly ready for combination with jensen's data, need to remove part of time rows
+
+### Entry (22/10/21) - Team
+- finalising data, almost ready to start combining and then graph some data, starting work on presentation
