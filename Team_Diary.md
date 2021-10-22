@@ -29,7 +29,7 @@
 - Perhaps R has a package that will allow the conversion of xlsx/xls to csv. I will aim to use such a package instead. 
 - 
 #### Entry (07/10/21) - Sujung
-- Convert excel file from web in R directly
+- Convert excel file from web in R directly.
 
 #### Entry (08/10/21) - Team
 - Spent most of time collaborating with another group, sharing our projects.
@@ -43,7 +43,7 @@
 - Identified the coordinates of each appropriate hydrostation and created a tibble containing this data.
 
 #### Entry (13/10/21) - Matt
-- Used Jensens hydrostation data to figure out which rivers/lakes they are on and for each, what data i can find on the aquarius portal
+- Used Jensens hydrostation data to figure out which rivers/lakes they are on and for each, what data i can find on the aquarius portal.
 
 #### Entry (15/10/21) - Richard
 - Beginning write the report about this project.
@@ -52,8 +52,11 @@
 - After comparing the river flow data with the hydrostation fleet location information, we found the greatest level of accuracy to be by month. This presented us with only 11 data point for each hydrostation, as the river flow data for April was missing aswell. For this reason, we have decided to extend the range of our data to multiple years.
 - Furthermore, only 11 out of the 47 hydrostations identified contained useable river flow data from the source used.
 
-### Entry (22/10/21) - Matt
-- Have made a few changes over the past days to my river notebook, nearly ready for combination with jensen's data, need to remove part of time rows
+#### Entry (22/10/21) - Matt
+- Have made a few changes over the past days to my river notebook, nearly ready for combination with jensen's data, need to remove part of time rows.
 
-### Entry (22/10/21) - Team
-- finalising data, almost ready to start combining and then graph some data, starting work on presentation
+#### Entry (22/10/21) - Team
+- finalising data, almost ready to start combining and then graph some data, starting work on presentation.
+
+#### Entry (22/10/21) - Richard
+-Beginning write the power point for the presentation.
