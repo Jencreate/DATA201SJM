@@ -60,3 +60,6 @@
 
 #### Entry (22/10/21) - Richard
 - Beginning write the power point for the presentation.
+
+#### Entry (22/10/21) - Jensen
+- Finished the automated scraping for the chosen range of years to get the data for (2015 to 2020)
