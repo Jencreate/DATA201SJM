@@ -19,3 +19,6 @@ yli356@uclive.ac.nz
 - [ ] Create scripts to automate the wrangling
 - [ ] Combine all the scripts into a final package
 - [ ] Produce a user interface to allow the final package to be used easily
+
+## Presentation
+[ppt link](https://ucliveac-my.sharepoint.com/:p:/g/personal/jbe153_uclive_ac_nz/EcVwBPn7DrdJiTd3MolZ2xQB0k-DUzKGa212pDdR2P-Y3A?e=RbLfpt)

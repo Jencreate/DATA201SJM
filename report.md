@@ -17,7 +17,7 @@ Energy production by river flow with electricity cost.
 The topic we chose is "Energy production by river flow with electricity cost". We chose the hydrostations in Canterbury and the rivers in the south island because it is easier to find the relationship between the hydrostations and the river.
 
 ### Target
-To find the energy production by river flow with electricity cost.
+To find the datas about what we need and find the relationship between energy production by river flow with electricity cost.
 
 ### Difficulties
 
