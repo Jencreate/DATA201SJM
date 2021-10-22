@@ -59,4 +59,4 @@
 - finalising data, almost ready to start combining and then graph some data, starting work on presentation.
 
 #### Entry (22/10/21) - Richard
--Beginning write the power point for the presentation.
+- Beginning write the power point for the presentation.
