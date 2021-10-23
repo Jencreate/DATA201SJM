@@ -7,12 +7,12 @@
 #### Entry (24/09/21) - Team
 - New team member in group, Liyinqin Li. SJM now has a group size of 4.
 - 'energy production by river flow with rainfall' was chosen as the first topic for prototyping.
-  - We found data for energy production by hydrostation, with the corresponding river flow data.
-  - We could not find sufficient rain fall data over a long period of time for the locations of the hydrostations.  
+  - We found data for energy production by hydro station, with the corresponding river flow data.
+  - We could not find sufficient rain fall data over a long period of time for the locations of the hydro stations.  
 - Changed our topic to our second choice 'energy production by riverflow with electricity cost' due to the above reason.
 
 #### Entry (01/10/21) - Team
-- Found the data sets for power production by hydrostations, river flow, and electricity cost.
+- Found the data sets for power production by hydro stations, river flow, and electricity cost.
 - Decided to use 2020 data for each of the above datasets as it was available for each subject.
 - The data retrieval and wrangling must be done automatically, and so scripts will have to be created to handle the automatic process.
 - Created and updated the team plan to assign tasks to individual members.
@@ -34,23 +34,23 @@
 #### Entry (08/10/21) - Team
 - Spent most of time collaborating with another group, sharing our projects.
 - Attempted to fix github issues regarding merging repositories.
-- Compared hydrostations and the river flows of the rivers they reside on.
+- Compared hydro stations and the river flows of the rivers they reside on.
 
 #### Entry (08/10/21) - Sujung
 - Remove unnecessary data and organize the necessary data for comparing with other data.
 
 #### Entry (10/10/21) - Jensen
-- Identified the coordinates of each appropriate hydrostation and created a tibble containing this data.
+- Identified the coordinates of each appropriate hydro station and created a tibble containing this data.
 
 #### Entry (13/10/21) - Matt
-- Used Jensens hydrostation data to figure out which rivers/lakes they are on and for each, what data i can find on the aquarius portal.
+- Used Jensens hydro station data to figure out which rivers/lakes they are on and for each, what data i can find on the aquarius portal.
 
 #### Entry (15/10/21) - Richard
 - Beginning write the report about this project.
 
 #### Entry (15/10/21) - Team
-- After comparing the river flow data with the hydrostation fleet location information, we found the greatest level of accuracy to be by month. This presented us with only 11 data point for each hydrostation, as the river flow data for April was missing aswell. For this reason, we have decided to extend the range of our data to multiple years.
-- Furthermore, only 11 out of the 47 hydrostations identified contained useable river flow data from the source used.
+- After comparing the river flow data with the hydro station fleet location information, we found the greatest level of accuracy to be by month. This presented us with only 11 data point for each hydro station, as the river flow data for April was missing aswell. For this reason, we have decided to extend the range of our data to multiple years.
+- Furthermore, only 11 out of the 47 hydro stations identified contained useable river flow data from the source used.
 
 #### Entry (22/10/21) - Matt
 - Have made a few changes over the past days to my river notebook, nearly ready for combination with jensen's data, need to remove part of time rows.
@@ -66,4 +66,5 @@
 
 #### Entry (23/10/21) - Jensen
 - Using map or lapply is really slow when applying functions to a list of tibbles. Instead I have used the 'furrr' package which allows for parallelization of the the purr functions.
-- Using Matt's river flow data I tried to link the hydrostations with their corresponding rivers directly by name. However, this resulted in only one match, meaning I will have to manually search online for their corresponding rivers.
+- Using Matt's river flow data I tried to link the hydro stations power output with their corresponding rivers directly by name. However, this resulted in only one match, meaning I will have to manually search online to identify the code of the hydro stations that correspond to each river. For example, the hydro station in Raikaia is coded 'highbank', where as the hydro station in waitaki is also coded as 'waitaki'.
+- Manual searching involves identifying the owner of the hydro stations situated on each river through the generation fleet spreadsheet extracted, then viewing the website of that company to identify its alternate name.
