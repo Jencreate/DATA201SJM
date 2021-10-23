@@ -63,3 +63,6 @@
 
 #### Entry (22/10/21) - Jensen
 - Finished the automated scraping for the chosen range of years to get the data for (2015 to 2020)
+
+#### Entry (23/10/21) - Jensen
+- Using map or lapply is really slow when applying functions to a list of tibbles. Instead I have used the 'furrr' package which allows for parallelization of the the purr functions.
