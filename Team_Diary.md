@@ -66,3 +66,4 @@
 
 #### Entry (23/10/21) - Jensen
 - Using map or lapply is really slow when applying functions to a list of tibbles. Instead I have used the 'furrr' package which allows for parallelization of the the purr functions.
+- Using Matt's river flow data I tried to link the hydrostations with their corresponding rivers directly by name. However, this resulted in only one match, meaning I will have to manually search online for their corresponding rivers.
