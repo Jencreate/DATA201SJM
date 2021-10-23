@@ -68,3 +68,5 @@
 - Using map or lapply is really slow when applying functions to a list of tibbles. Instead I have used the 'furrr' package which allows for parallelization of the the purr functions.
 - Using Matt's river flow data I tried to link the hydro stations power output with their corresponding rivers directly by name. However, this resulted in only one match, meaning I will have to manually search online to identify the code of the hydro stations that correspond to each river. For example, the hydro station in Raikaia is coded 'highbank', where as the hydro station in waitaki is also coded as 'waitaki'.
 - Manual searching involves identifying the owner of the hydro stations situated on each river through the generation fleet spreadsheet extracted, then viewing the website of that company to identify its alternate name.
+- I have identified the corresponding power station for each river, where available.
+- I have converted Matt's river data so that the columns contain the correct data type. Using this data, I have combined it with the generation output of the hydrostations
