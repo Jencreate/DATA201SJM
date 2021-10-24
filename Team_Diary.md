@@ -65,7 +65,7 @@
 - Finished the automated scraping for the chosen range of years to get the data for (2015 to 2020)
 
 #### Entry (23/10/21) - Sujung
-- Converted numeric to date.
+- Converted numeric to date. But he first column name disappeared and the dates were converted. I will solve this problem and combine it with other data.
 
 #### Entry (23/10/21) - Jensen
 - Using map or lapply is really slow when applying functions to a list of tibbles. Instead I have used the 'furrr' package which allows for parallelization of the the purr functions.
