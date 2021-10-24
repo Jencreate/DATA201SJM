@@ -9,6 +9,6 @@
 - [x] Sujung & Richard: Look at how to write the report (Due 14/10/21).
 
 #### Entry (22/10/21) - Team
-- [ ] Jensen: Automate the wrangling of the data for power generation of each relevant hydrostation
+- [x] Jensen: Automate the wrangling of the data for power generation of each relevant hydrostation
 - [ ] Sujung: Automate the wrangling for electricity cost data
 
