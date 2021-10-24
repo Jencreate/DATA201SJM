@@ -64,6 +64,9 @@
 #### Entry (22/10/21) - Jensen
 - Finished the automated scraping for the chosen range of years to get the data for (2015 to 2020)
 
+#### Entry (23/10/21) - Sujung
+- Converted numeric to date.
+
 #### Entry (23/10/21) - Jensen
 - Using map or lapply is really slow when applying functions to a list of tibbles. Instead I have used the 'furrr' package which allows for parallelization of the the purr functions.
 - Using Matt's river flow data I tried to link the hydro stations power output with their corresponding rivers directly by name. However, this resulted in only one match, meaning I will have to manually search online to identify the code of the hydro stations that correspond to each river. For example, the hydro station in Raikaia is coded 'highbank', where as the hydro station in waitaki is also coded as 'waitaki'.
