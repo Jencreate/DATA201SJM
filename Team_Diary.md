@@ -73,3 +73,6 @@
 - Manual searching involves identifying the owner of the hydro stations situated on each river through the generation fleet spreadsheet extracted, then viewing the website of that company to identify its alternate name.
 - I have identified the corresponding power station for each river, where available.
 - I have converted Matt's river data so that the columns contain the correct data type. Using this data, I have combined it with the generation output of the hydrostations
+
+#### Entry(25/10/21) - Jensen
+- Converted electricity cost data into a tidy format, which was then merged with the generation output of dataframe, and plotted
