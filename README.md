@@ -13,12 +13,12 @@ yli356@uclive.ac.nz
 - [x] Identify a range of topic ideas
 - [x] Prototype our identified topics
 - [x] Confirm the chosen topic and identify available datasets
-- [ ] Create scripts to automate data collection from sources
-  - [ ] Create a script to convert xlsx/xls files to csv
-- [ ] Wrangle data into desired format
-- [ ] Create scripts to automate the wrangling
-- [ ] Combine all the scripts into a final package
-- [ ] Produce a user interface to allow the final package to be used easily
+- [x] Create scripts to automate data collection from sources
+  - [ ] ~~Create a script to convert xlsx/xls files to csv~~
+- [x] Wrangle data into desired format
+- [x] Create scripts to automate the wrangling
+- [x] Combine all the scripts into a final package
+- [x] Produce a user interface to allow the final package to be used easily (jupyter notebook)
 
 ## Presentation
 [ppt link](https://ucliveac-my.sharepoint.com/:p:/g/personal/jbe153_uclive_ac_nz/EcVwBPn7DrdJiTd3MolZ2xQB0k-DUzKGa212pDdR2P-Y3A?e=RbLfpt)
