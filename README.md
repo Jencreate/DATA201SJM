@@ -9,7 +9,6 @@ jbe153@uclive.ac.nz
 yli356@uclive.ac.nz
 
 ## Road map
-#### Specifics detailed in Team_Plan.md
 - [x] Identify a range of topic ideas
 - [x] Prototype our identified topics
 - [x] Confirm the chosen topic and identify available datasets
