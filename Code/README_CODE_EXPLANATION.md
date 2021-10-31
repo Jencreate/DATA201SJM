@@ -20,7 +20,7 @@ Therefore, "Webscrape\_and\_Wrangle.ipynb" should be considered the final produc
 
 
 - Webscrape\_hydrostations.ipynb
-    - Contains code to webscrape the hydro station generation output, fleet information and network supply nodes, with minor wrangling.  
+    - Contains the code to webscrape the hydro station generation output, fleet information and network supply nodes, with minor wrangling.  
     - Can be run independently of all other notebooks.
 
 
