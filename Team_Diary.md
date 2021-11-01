@@ -79,3 +79,6 @@
 
 #### Entry(30/10/21) - Jensen
 - Commented my side of the code and produced a plotting function to allow graphing by the specified town.
+
+#### Entry(01/10/21) - Team
+- Just finishing the report now
