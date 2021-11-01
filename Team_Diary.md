@@ -1,5 +1,5 @@
 #### Entry (20/09/21) - Team
-- Attempted to generate ideas for the assignment topic (17/09/21) (see vocabulary\_game.md)
+- Attempted to generate ideas for the assignment topic (17/09/21) (see vocabulary_game.md)
   - Each team member created a list of random words of any topic.
   - The words from each member were combined to form multiple sentences relating to a topic idea.
   - The ideas were further refined to meet the context of the assignment.
@@ -44,6 +44,7 @@
 
 #### Entry (13/10/21) - Matt
 - Used Jensens hydro station data to figure out which rivers/lakes they are on and for each, what data i can find on the aquarius portal.
+- imported datasets into r, found issues with some, will resolve
 
 #### Entry (15/10/21) - Richard
 - Beginning write the report about this project.
@@ -52,8 +53,12 @@
 - After comparing the river flow data with the hydro station fleet location information, we found the greatest level of accuracy to be by month. This presented us with only 11 data point for each hydro station, as the river flow data for April was missing aswell. For this reason, we have decided to extend the range of our data to multiple years.
 - Furthermore, only 11 out of the 47 hydro stations identified contained useable river flow data from the source used.
 
+#### Entry (15/10/21) - Matt
+- Figured out i need to use monthly interval for some datasets, and all records for others, all data has 1 entry per month per data set.
+
 #### Entry (22/10/21) - Matt
 - Have made a few changes over the past days to my river notebook, nearly ready for combination with jensen's data, need to remove part of time rows.
+- Have with the help of Thomas Li, developed a function to extract south island names from wikipedia, which will be used with Sujungs data to obtain south island electricity costs.
 
 #### Entry (22/10/21) - Team
 - finalising data, almost ready to start combining and then graph some data, starting work on presentation.
@@ -79,6 +84,9 @@
 
 #### Entry(30/10/21) - Jensen
 - Commented my side of the code and produced a plotting function to allow graphing by the specified town.
+
+#### Entry(30/10/21) - Matt
+- Commented my side of the code
 
 #### Entry(01/10/21) - Team
 - Just finishing the report now
