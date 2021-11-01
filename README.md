@@ -1,5 +1,6 @@
 ## Disclamer
 The /Code/ folder contains the code files and the final product of our project.
+- Please refer to the README_CODE_EXPLANATION file inside the /Code/ folder for instructions on running the notebooks
 
 ## Communications
 [Data201 spreadsheet](https://ucliveac-my.sharepoint.com/:x:/g/personal/giulio_dallariva_canterbury_ac_nz/EXfVIUJL1_9Ht4c6cWnsGpIBae2wTYfxLSKB75ysXFgDbA?e=rhrdFu)  
@@ -25,6 +26,3 @@ yli356@uclive.ac.nz
 ## Presentation
 [ppt link](https://ucliveac-my.sharepoint.com/:p:/g/personal/jbe153_uclive_ac_nz/EcVwBPn7DrdJiTd3MolZ2xQB0k-DUzKGa212pDdR2P-Y3A?e=RbLfpt)  
 [word report link](https://ucliveac-my.sharepoint.com/:w:/g/personal/jbe153_uclive_ac_nz/Eb1Kn_TXXH9IvDSgUXGdc78BrtJPCdz8YiFIysoLHJoQjw?e=cFaut4)
-
-## Disclaimer
-- Please refer to the README_CODE_EXPLANATION file located in the Code folder for instructions on running the notebooks
