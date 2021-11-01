@@ -82,8 +82,14 @@
 #### Entry(25/10/21) - Jensen
 - Converted electricity cost data into a tidy format, which was then merged with the generation output of dataframe, and plotted
 
+#### Entry(26/10/21) - Sujung
+- Edited ppt looking good
+
 #### Entry(30/10/21) - Jensen
 - Commented my side of the code and produced a plotting function to allow graphing by the specified town.
+
+#### Entry(1/11/21) - Sujung
+- Commented my side of the code
 
 #### Entry(30/10/21) - Matt
 - Commented my side of the code
