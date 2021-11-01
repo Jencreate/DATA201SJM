@@ -1,6 +1,6 @@
 ## Disclamer
 The /Code/ folder contains the code files and the final product of our project.
-- Please refer to the README_CODE_EXPLANATION file inside the /Code/ folder for instructions on running the notebooks
+- Please refer to the README\_CODE\_EXPLANATION file inside the /Code/ folder for instructions on running the notebooks
 
 ## Communications
 [Data201 spreadsheet](https://ucliveac-my.sharepoint.com/:x:/g/personal/giulio_dallariva_canterbury_ac_nz/EXfVIUJL1_9Ht4c6cWnsGpIBae2wTYfxLSKB75ysXFgDbA?e=rhrdFu)  
