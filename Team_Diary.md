@@ -1,5 +1,5 @@
 #### Entry (20/09/21) - Team
-- Attempted to generate ideas for the assignment topic (17/09/21) (see vocabulary_game.md)
+- Attempted to generate ideas for the assignment topic (17/09/21) (see vocabulary\_game.md)
   - Each team member created a list of random words of any topic.
   - The words from each member were combined to form multiple sentences relating to a topic idea.
   - The ideas were further refined to meet the context of the assignment.
@@ -79,3 +79,6 @@
 
 #### Entry(30/10/21) - Jensen
 - Commented my side of the code and produced a plotting function to allow graphing by the specified town.
+
+#### Entry(01/10/21) - Team
+- Just finishing the report now
