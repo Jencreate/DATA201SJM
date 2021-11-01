@@ -1,3 +1,6 @@
+## Disclamer
+The /Code/ folder contains the code files and the final product of our project.
+
 ## Communications
 [Data201 spreadsheet](https://ucliveac-my.sharepoint.com/:x:/g/personal/giulio_dallariva_canterbury_ac_nz/EXfVIUJL1_9Ht4c6cWnsGpIBae2wTYfxLSKB75ysXFgDbA?e=rhrdFu)  
 [Datasets](https://ucliveac-my.sharepoint.com/:x:/g/personal/giulio_dallariva_canterbury_ac_nz/EYjbdV0uswBHnzYS8Y8EG4UBK3z2Ydb2WIOpt66gKxM9vQ?e=H6MqDb)
