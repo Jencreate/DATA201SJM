@@ -27,7 +27,7 @@ Therefore, "Webscrape\_and\_Wrangle.ipynb" should be considered the final produc
     - Contains the code to webscrape the hydro station generation output, fleet information and network supply nodes, with minor wrangling.  
     - Can be run independently of all other notebooks.
     - Should be run from top to bottom cell.
-    - Hydro station data provided by EMI: - “www.emi.ea.govt.nz provided by the Electricity Authority (New Zealand)"
+    - Hydro station data provided by EMI: “www.emi.ea.govt.nz provided by the Electricity Authority (New Zealand)"
 
 
 - Webscrape\_rivers.ipynb
